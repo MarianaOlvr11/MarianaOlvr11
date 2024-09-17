@@ -50,14 +50,24 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/marianavitoriaads" target="_blank">
+  <a href="https://www.linkedin.com/in/marianavitoriaads" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="marianavitoria1104@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@marianavitoriaoliveirasantos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<h2 align="left">Meu CV:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.canva.com/design/DAF_9gDRdIQ/phWxkN05LoPcEwBc3c3iIg/view?utm_content=DAF_9gDRdIQ&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mariana%20&logo=patreon&label=CV&color=FF4162&logoColor=black&labelColor=black&style=for-the-badge" height="40" alt="patreon logo"  />
   </a>
 </div>
 
