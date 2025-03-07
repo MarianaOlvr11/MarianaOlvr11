@@ -68,7 +68,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.canva.com/design/DAF_9gDRdIQ/phWxkN05LoPcEwBc3c3iIg/view?utm_content=DAF_9gDRdIQ&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+  <a href="https://docs.google.com/document/d/1CEk-N2KSxpMgbXyhWh_7R8p7jI-Z801E/edit?usp=sharing&ouid=105790152809233158380&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mariana%20&logo=patreon&label=CV&color=FF4162&logoColor=black&labelColor=black&style=for-the-badge" height="40" alt="patreon logo"  />
   </a>
 </div>
