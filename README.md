@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Desenvolvedora Backend entusiasta de tecnologia, inovação e ciência, sempre em busca de soluções eficientes e criativas.</h3>
+<h3 align="left">Cientista de dados e entusiasta de tecnologia, inovação e ciência, sempre em busca de soluções eficientes e criativas.</h3>
 
 ###
 
